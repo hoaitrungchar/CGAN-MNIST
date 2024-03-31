@@ -1,6 +1,6 @@
 # Description.
 
-This is an implementation of CGAN (Conditional Generative Adversarial Network) for MNIST and Fashion MNIST dataaset.
+This is an implementation of CGAN (Conditional Generative Adversarial Network) for MNIST and Fashion MNIST dataaset. The model is trained on traindataset of MNIST dataset and Fashion MNIST dataset.
 
 ## Architecture
 The architecture of CGAN model based on the architecture in [2]
