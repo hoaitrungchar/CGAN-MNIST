@@ -13,4 +13,5 @@ The algorithm to trainning this model based on the Alogrithm 1 in [1]
 ## References
  
 [1] Generative adversarial nets Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., and Bengio, Y. (2014).
+
 [2] Conditional Generative Adversarial Nets, Mehdi Mirza, Simon Osindero.
